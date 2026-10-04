@@ -1,2 +1,2 @@
-export const SUPABASE_URL = 'ใส่ Project URL ตรงนี้';
-export const SUPABASE_KEY = 'ใส่ anon public key ตรงนี้';
+export const SUPABASE_URL = 'https://ltwsrccuxmvddahjeswj.supabase.co';
+export const SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imx0d3NyY2N1eG12ZGRhaGplc3dqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTEwNTUwODYsImV4cCI6MjEwNjYzMTA4Nn0.MAnQR2N06fjJd4-lVakMOqk5F7hfVYjwQlqvA55WJSk';
